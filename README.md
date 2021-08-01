@@ -1,0 +1,1 @@
+avaliadorfisico(DEPRECATED)
